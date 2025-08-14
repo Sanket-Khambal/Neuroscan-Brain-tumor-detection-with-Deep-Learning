@@ -1,4 +1,4 @@
-# Brain Tumor Detection & Report Generation using Deep Learning
+# Neuroscan Brain Tumor Detection & Report Generation using Deep Learning
 
 ## Project Overview
 This project aims to develop a machine learning-based approach for brain tumor detection using MRI scans. By utilizing both traditional machine learning models (Support Vector Machine and Random Forest) and deep learning techniques (Convolutional Neural Network), we provide an efficient and automated system for detecting and classifying brain tumors into three categories: Glioma, Meningioma, and Pituitary tumors.
